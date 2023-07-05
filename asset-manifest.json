@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gobikannan-cendrol/static/css/main.5b75673d.css",
+    "main.js": "/gobikannan-cendrol/static/js/main.2cfeca46.js",
+    "index.html": "/gobikannan-cendrol/index.html",
+    "main.5b75673d.css.map": "/gobikannan-cendrol/static/css/main.5b75673d.css.map",
+    "main.2cfeca46.js.map": "/gobikannan-cendrol/static/js/main.2cfeca46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b75673d.css",
+    "static/js/main.2cfeca46.js"
+  ]
+}
